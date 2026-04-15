@@ -1,0 +1,22 @@
+[
+  {
+    "id": "hero-01",
+    "filename": "in_the_worksop.jpeg",
+    "caption": "Fully assembled prototype. Built with commonly found materials to finally open source it."
+  },
+  {
+    "id": "sub-01",
+    "filename": "fancy_house.jpeg",
+    "caption": "This was the most fancy place I have ever tested a prototype in. Restrictions in Singapore did not allow us to test in the Ocean so we had to improvise. Nice pool though."
+  },
+  {
+    "id": "sub-02",
+    "filename": "insides.JPG",
+    "caption": "Keeping track of oxygen and hydrogen generation rates to calculate leakage in the system. Hydrogen is incredibly hard to contain. Loves to escape."
+  },
+  {
+    "id": "sub-03",
+    "filename": "floaty.JPG",
+    "caption": "\u201cCome on work already.\u201d"
+  }
+]

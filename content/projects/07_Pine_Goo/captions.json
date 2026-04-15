@@ -1,0 +1,27 @@
+[
+  {
+    "id": "hero-01",
+    "filename": "pine_goo.jpg",
+    "caption": "I converted an Ender to print the pine paste, the first result was not appealing :)"
+  },
+  {
+    "id": "sub-01",
+    "filename": "SUPERGREEN-10.jpg",
+    "caption": "Fully printed and cured sole."
+  },
+  {
+    "id": "sub-02",
+    "filename": "SUPERGREEN-29.jpg",
+    "caption": "Made numerous test prints to learn about the dimensional stability of the material."
+  },
+  {
+    "id": "sub-03",
+    "filename": "SUPERGREEN-24.jpg",
+    "caption": "Final Shoe. I designed some fun elements on the bottom. Also optimised the print for aesthetics."
+  },
+  {
+    "id": "sub-04",
+    "filename": "IMG1-edited.jpg",
+    "caption": "Looked like a sock from the side."
+  }
+]

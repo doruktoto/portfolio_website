@@ -1,0 +1,22 @@
+[
+  {
+    "id": "hero-01",
+    "filename": "planetary_gear.jpeg",
+    "caption": "The proto had some planetary gear action."
+  },
+  {
+    "id": "sub-01",
+    "filename": "CPS-5.jpg",
+    "caption": "When breathing slows, the panel opens and the chaos stills."
+  },
+  {
+    "id": "sub-02",
+    "filename": "CPS-6.jpg",
+    "caption": "The double pendulum in chaotic motion — a mirror of an unfocused mind."
+  },
+  {
+    "id": "sub-03",
+    "filename": "CPS-7.jpg",
+    "caption": "Image recognition tracks your breath to drive the mechanics."
+  }
+]

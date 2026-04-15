@@ -1,0 +1,27 @@
+[
+  {
+    "id": "hero-01",
+    "filename": "Hydro-vermis-1.jpg",
+    "caption": "The integrated worm compost and hydroponic tower concept."
+  },
+  {
+    "id": "sub-01",
+    "filename": "Hydro-vermis-2.jpg",
+    "caption": "Detail of the hydroponic tower section."
+  },
+  {
+    "id": "sub-02",
+    "filename": "Hydro-vermis-3.jpg",
+    "caption": "Nutrient flow pathways between the compost and growing channels."
+  },
+  {
+    "id": "sub-03",
+    "filename": "Hydro-vermis-4.jpg",
+    "caption": "The worm compost chamber — where the magic happens."
+  },
+  {
+    "id": "sub-04",
+    "filename": "Hydro-vermis-5.jpg",
+    "caption": "Render of the full assembly. Never built, but the design is solid."
+  }
+]

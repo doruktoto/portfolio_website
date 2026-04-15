@@ -1,0 +1,27 @@
+[
+  {
+    "id": "hero-01",
+    "filename": "full_assembly.jpeg",
+    "caption": "The electrochemical cell fully assembled. Does not look too exciting but designing the anode was a fun one."
+  },
+  {
+    "id": "sub-01",
+    "filename": "rust.jpeg",
+    "caption": "Basically the battery discharged energy by breathing in oxygen to rust iron. Very simple concept, but an elegant solution to grid scale energy storage."
+  },
+  {
+    "id": "sub-02",
+    "filename": "jiggle.MOV",
+    "caption": "Bonus jiggly mixing video."
+  },
+  {
+    "id": "sub-03",
+    "filename": "1_003.jpg",
+    "caption": "SEM footage of the anode before use."
+  },
+  {
+    "id": "sub-04",
+    "filename": "after_passivation.jpg",
+    "caption": "After thousands of cycles the anode was passivated. This was the enigneering battle we had. Added Bismuth oxide to suppress it."
+  }
+]

@@ -1,0 +1,2 @@
+A gizmo to accompany your meditation. The double pendulum is in chaotic motion when you are not focusing on your breath. When you started to focus, the panel opened up and chaotic motion of the pendulum stopped. Image Recognition + some mechanics
+
