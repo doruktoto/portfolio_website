@@ -2,17 +2,17 @@
   {
     "id": "hero-01",
     "filename": "front_screen.jpg",
-    "caption": "The main interface. The environment around you becomes your instrument."
+    "caption": "The main interface."
   },
   {
     "id": "sub-01",
     "filename": "Cicada.png",
-    "caption": "Cicada — a field recorder that turns captured sound into a playable synthesiser."
+    "caption": "Cicada"
   },
   {
     "id": "sub-02",
     "filename": "Render-Cork-plastic.jpg",
-    "caption": "Material explorations for the enclosure: cork and recycled plastic."
+    "caption": "Material options for the enclosure: cork for production and recycled plastic for open source."
   },
   {
     "id": "sub-03",
@@ -22,6 +22,6 @@
   {
     "id": "sub-04",
     "filename": "prototypes.jpg",
-    "caption": "Iterating through hardware prototypes."
+    "caption": "Hardware prototypes."
   }
 ]

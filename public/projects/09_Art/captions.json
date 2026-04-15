@@ -2,12 +2,12 @@
   {
     "id": "hero-01",
     "filename": "Evanescent-Reality.jpg",
-    "caption": "Evanescent Reality — mixed media exploration."
+    "caption": "Evanescent Reality"
   },
   {
     "id": "sub-01",
     "filename": "Bio-corset.jpg",
-    "caption": "Bio-corset — wearable structure inspired by biological forms."
+    "caption": "Bio-corset"
   },
   {
     "id": "sub-02",
@@ -17,7 +17,7 @@
   {
     "id": "sub-03",
     "filename": "Enclosure_edited.png",
-    "caption": "Enclosure — photographic study."
+    "caption": "Enclosure"
   },
   {
     "id": "sub-04",
@@ -27,16 +27,16 @@
   {
     "id": "sub-05",
     "filename": "Lamp-14.jpg",
-    "caption": "Lamp — light and shadow object."
+    "caption": "Study"
   },
   {
     "id": "sub-06",
     "filename": "LEADSOLDİER.png",
-    "caption": "LEAD SOLDIER — digital work."
+    "caption": "Lead Soldier"
   },
   {
     "id": "sub-07",
-    "filename": "Süz_edited.png",
-    "caption": "Süz — textile and filtering process."
+    "filename": "Süz_edited.jpg",
+    "caption": "Süz — Screen Print"
   }
 ]

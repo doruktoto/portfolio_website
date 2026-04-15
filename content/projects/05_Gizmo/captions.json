@@ -7,16 +7,16 @@
   {
     "id": "sub-01",
     "filename": "CPS-5.jpg",
-    "caption": "When breathing slows, the panel opens and the chaos stills."
+    "caption": "When breathing slows, the panel opens."
   },
   {
     "id": "sub-02",
     "filename": "CPS-6.jpg",
-    "caption": "The double pendulum in chaotic motion — a mirror of an unfocused mind."
+    "caption": "The double pendulum in chaotic motion, unfocused state."
   },
   {
     "id": "sub-03",
     "filename": "CPS-7.jpg",
-    "caption": "Image recognition tracks your breath to drive the mechanics."
+    "caption": "Image recognition for tracking behaviour."
   }
 ]
