@@ -45,7 +45,7 @@ export default function MediaStrip({ media, folderName }: MediaStripProps) {
                   />
                 </button>
               )}
-              <p className="mt-2 text-xs text-neutral-500 max-w-[20rem] line-clamp-2">
+              <p className="mt-2 text-xs text-neutral-500 max-w-[20rem]">
                 {item.caption}
               </p>
             </div>
