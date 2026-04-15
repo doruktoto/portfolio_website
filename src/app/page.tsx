@@ -11,14 +11,16 @@ export default function Home() {
     <main className="flex flex-col md:flex-row md:h-screen">
       {/* Bio — top on mobile, right column on desktop */}
       <aside className="md:w-[35%] md:h-screen md:overflow-y-auto md:order-last">
-        <Image
-          src="/profile.jpg"
-          alt="Doruk Ruzto"
-          width={800}
-          height={1000}
-          className="w-full object-cover"
-          priority
-        />
+        <div className="p-8 pb-4">
+          <Image
+            src="/profile.jpg"
+            alt="Doruk Ruzto"
+            width={800}
+            height={1000}
+            className="w-full object-cover rounded-lg"
+            priority
+          />
+        </div>
         <div className="p-8">
           <p className="text-sm leading-relaxed text-neutral-700">{bio}</p>
           <div className="mt-4">
