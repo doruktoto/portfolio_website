@@ -24,8 +24,8 @@ export default function Home() {
         <div className="p-8">
           <p className="text-sm leading-relaxed text-neutral-700">{bio}</p>
           <div className="mt-4">
-            <UnderlineToBackground href="mailto:hello@lirlabs.com">
-              hello@lirlabs.com
+            <UnderlineToBackground href="mailto:doruk@lirlabs.com">
+              doruk@lirlabs.com
             </UnderlineToBackground>
           </div>
         </div>
