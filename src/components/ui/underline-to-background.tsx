@@ -1,5 +1,6 @@
 'use client'
 
+import posthog from 'posthog-js'
 import { cn } from '@/lib/utils'
 
 interface UnderlineToBackgroundProps {
@@ -14,7 +15,11 @@ export function UnderlineToBackground({
   className,
 }: UnderlineToBackgroundProps) {
   return (
-    <a href={href} className={cn('utb-link', className)}>
+    <a
+      href={href}
+      className={cn('utb-link', className)}
+      onClick={() => posthog.capture('email_link_clicked', { href })}
+    >
       {children}
     </a>
   )

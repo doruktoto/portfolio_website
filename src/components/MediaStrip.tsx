@@ -2,6 +2,7 @@
 
 import Image from 'next/image'
 import { useState } from 'react'
+import posthog from 'posthog-js'
 import type { MediaItem } from '@/lib/projects'
 import Lightbox from '@/components/Lightbox'
 
@@ -32,7 +33,10 @@ export default function MediaStrip({ media, folderName }: MediaStripProps) {
               ) : (
                 <button
                   className="focus:outline-none cursor-zoom-in"
-                  onClick={() => setLightbox({ src: url, alt: item.caption })}
+                  onClick={() => {
+                    posthog.capture('image_lightbox_opened', { caption: item.caption, filename: item.filename, folder: folderName })
+                    setLightbox({ src: url, alt: item.caption })
+                  }}
                   aria-label={`View ${item.caption}`}
                 >
                   <Image
